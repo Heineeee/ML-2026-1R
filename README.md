@@ -2,6 +2,7 @@
 ICU
 
 ##################전처리############### 
+
 0. Load metadata / labels
    - True / False만 사용
    - Reject / Uncertain 제거
@@ -54,4 +55,5 @@ ICU
    - channels = ["ECG1", "ECG2", "PPG", "ABP"]
    - sampling_freq = 250
    - crop_samples = [72500, 75000]
+   - 
 ##################전처리############### 
